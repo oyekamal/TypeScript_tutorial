@@ -14,3 +14,5 @@ console.log(b--)
 let num = -2;
 let result: string = num < 0 ? "negative": "positive"
 console.log(result)
+
+

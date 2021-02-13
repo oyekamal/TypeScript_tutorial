@@ -6,3 +6,5 @@ console.log("my name is :" + name_);
 console.log("first number : " + num1);
 console.log("second number : " + num2);
 console.log("totel : " + total);
+var another_way = "my name is ${name_}";
+console.log(another_way);
